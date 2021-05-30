@@ -1,0 +1,5 @@
+hello - 岳澄說你好
+trash_talk - 心靈雞湯
+today - 本日運勢占卜
+turn_egg - 轉蛋遊戲 機率尚未公布
+turn_egg_ten - 十連抽 沒保底
